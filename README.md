@@ -7,6 +7,7 @@ mencari lowongan pekerjaan berdasarkan posisi, lokasi, akreditasi, gaji, waktu k
 dan rating dari pekerjaan tersebut.
 
 Spesifikasi Aplikasi Lowongan Pekerjaan:
+
 ● Pengguna bisa melalukan penambahan, pengubahan (edit), dan pembatalan
 pilihan lowongan pekerjaan
 
