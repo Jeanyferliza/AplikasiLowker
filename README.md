@@ -8,8 +8,7 @@ dan rating dari pekerjaan tersebut.
 
 Spesifikasi Aplikasi Lowongan Pekerjaan:
 
-● Pengguna bisa melalukan penambahan, pengubahan (edit), dan pembatalan
-pilihan lowongan pekerjaan
+●Pengguna bisa melakukan penambahan, pengubahan, dan penghapusan ulasan (komentar) dari pelamar
 
 ● Pengguna bisa memilih daftar lowongan pekerjaan yang tersedia untuk
 kebutuhan pelamar, seperti posisi,deskripsi, lokasi, persyaratan, akreditasi,
